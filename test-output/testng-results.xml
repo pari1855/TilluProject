@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="39866" started-at="2021-01-11T11:23:42 IST" finished-at="2021-01-11T11:24:22 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="39866" started-at="2021-01-11T11:23:42 IST" finished-at="2021-01-11T11:24:22 IST">
+      <class name="StackOverflow.Question01112021">
+        <test-method status="PASS" signature="DRiverInitialization()[pri:0, instance:StackOverflow.Question01112021@480bdb19]" name="DRiverInitialization" is-config="true" duration-ms="39650" started-at="2021-01-11T11:23:42 IST" finished-at="2021-01-11T11:24:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DRiverInitialization -->
+        <test-method status="PASS" signature="StackQuestion()[pri:0, instance:StackOverflow.Question01112021@480bdb19]" name="StackQuestion" duration-ms="169" started-at="2021-01-11T11:24:22 IST" finished-at="2021-01-11T11:24:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StackQuestion -->
+      </class> <!-- StackOverflow.Question01112021 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
